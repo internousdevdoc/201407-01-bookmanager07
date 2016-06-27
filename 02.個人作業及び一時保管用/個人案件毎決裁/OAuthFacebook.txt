@@ -1,0 +1,13 @@
+APP ID(アプリID)
+1860946867465796
+
+app secret
+792346cc2b7bf885792adde63ded3511
+
+メールアドレス
+internous.dev@gmail.com
+
+クライアントトークン
+80f8613dfe43d061f81b8f3bcbaf909a
+
+https://ja-jp.facebook.com/login/
